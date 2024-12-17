@@ -3,8 +3,9 @@
 *Some experience in html and Css
 *typing speed 60wpm
 
-## Projects for Term 1
+## Certifications
 
-## Projects for Term 2
 
-![Tittle](https://images.pexels.com/photos/128756/pexels-photo-128756.jpeg?auto=compress&cs=tinysrgb&w=600)
+
+
+![Tittle]()
