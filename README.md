@@ -3,6 +3,8 @@ Student At skyline Highschools Class of 2027.
 Some experience in html and Css.
 typing speed 60wpm.
 I have some experiance in Unity and Processing as well.
+##### Contact me
+contact me at (mailto:levi.dorval@gmail.com)
 
 ## Certifications
 The only tech vertification I have is my game dev fundamentals certification I got it  12/14/2 4 
